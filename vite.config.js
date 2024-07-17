@@ -1,6 +1,5 @@
 import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
-import 'resurces/scss/app.scss';
 const path = require('path');
 
 export default defineConfig({
